@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on SabilaMall as Fullstack Developer, Rumah Coding as Trainer, Kalava Studio as Founder
+
 <!--
 **narul9923/narul9923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
